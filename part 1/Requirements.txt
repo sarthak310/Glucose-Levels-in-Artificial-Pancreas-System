@@ -1,0 +1,7 @@
+README
+
+Steps to execute the code:
+
+1. Load the code to Google Colab or any other IDE.
+2. If you are using Colab, upload the CGMData.csv, InsulinData.csv, & Results.csv files. If using any other IDE, you will have to add the path to the files in the code.
+3. Run the code (it will take about 10 seconds) and download the Results.csv file.
